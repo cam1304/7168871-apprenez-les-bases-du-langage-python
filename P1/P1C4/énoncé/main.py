@@ -1,1 +1,2 @@
-# Écrivez votre code ici !
+nom = Camille
+age = 19 
